@@ -1,47 +1,64 @@
-<h1 align="center">Hi 👋, I'm Marquis Evander</h1>
-<h3 align="center">A Passionate Software Engineer from Indonesia 🇮🇩</h3>
+<h1 align="center">Hi, I'm Marquis Evander</h1>
+<h3 align="center">Software Engineer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Code.+Commit.+Coffee.+Repeat.;Crafting+Solutions+with+Code.;Never+Stop+Learning+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Code.+Commit.+Coffee.+Repeat.;Building+Scalable+Fullstack+Systems.;Next.js+%7C+Golang+%7C+PostgreSQL;Continuous+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 ```ts
 const marquisEvander = {
-  code: ['JavaScript', 'TypeScript', 'Python', 'C#'],
-  frontend: ['React', 'HTML5', 'CSS3'],
-  backend: ['Node.js', 'Express', 'ASP.NET'],
-  database: ['MySQL', 'MongoDB'],
-  tools: ['VSCode', 'Postman', 'Figma'],
+  code: ['JavaScript', 'TypeScript', 'Python', 'C#', 'Go'],
+  frontend: ['React', 'Next.js', 'HTML5', 'CSS3'],
+  backend: ['Node.js', 'Express', 'ASP.NET', 'Golang (GoFiber)'],
+  database: ['MySQL', 'MongoDB', 'PostgreSQL'],
+  tools: ['VSCode', 'Postman', 'Figma', 'Docker'],
+  architecture: ['REST API', 'Microservices', 'SSR/ISR'],
   devLife: 'Eat(); Sleep(); Code(); Repeat();',
-  currentFocus: 'Building scalable fullstack apps 🧠',
+  currentFocus: 'High-performance backend and scalable frontend systems',
 }
 ```
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### Specialization
+
+* Fullstack Development (Next.js + API)
+* High-performance backend using Golang (GoFiber)
+* Scalable system design and clean architecture
+* RESTful API and service-oriented architecture
+* Database optimization (PostgreSQL, MongoDB)
+
+---
+
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mevander88&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
@@ -50,7 +67,7 @@ const marquisEvander = {
 
 ---
 
-### 🌐 Let's Connect
+### Connect
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -63,7 +80,7 @@ const marquisEvander = {
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
