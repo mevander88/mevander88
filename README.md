@@ -304,17 +304,12 @@ Interested in defensive security and tooling around:
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=mevander88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-alt="Marquis Evander GitHub Stats"
-/>
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevander88&layout=compact&hide_border=true&langs_count=8"
-alt="Marquis Evander Top Languages"
-/>
+<a href="https://github.com/mevander88">
+  <img
+    src="https://streak-stats.demolab.com?user=mevander88&hide_border=true&mode=weekly"
+    alt="Marquis Evander GitHub Streak"
+  />
+</a>
 
 </div>
 
@@ -322,11 +317,13 @@ alt="Marquis Evander Top Languages"
 
 <div align="center">
 
-<img
-width="70%"
-src="https://streak-stats.demolab.com?user=mevander88&hide_border=true"
-alt="Marquis Evander GitHub Streak"
-/>
+<a href="https://github.com/mevander88?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
+
+<a href="https://github.com/mevander88?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-View%20Collection-181717?style=for-the-badge&logo=github" alt="Stars"/>
+</a>
 
 </div>
 
