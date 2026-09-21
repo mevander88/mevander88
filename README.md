@@ -306,14 +306,14 @@ Interested in defensive security and tooling around:
 
 <img
 width="49%"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=mevander88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-alt="Marquis Evander GitHub statistics"
+src="https://github-readme-stats.vercel.app/api?username=mevander88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+alt="Marquis Evander GitHub Stats"
 />
 
 <img
 width="49%"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mevander88&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800"
-alt="Most used languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevander88&layout=compact&hide_border=true&langs_count=8"
+alt="Marquis Evander Top Languages"
 />
 
 </div>
@@ -325,7 +325,7 @@ alt="Most used languages"
 <img
 width="70%"
 src="https://streak-stats.demolab.com?user=mevander88&hide_border=true"
-alt="GitHub contribution streak"
+alt="Marquis Evander GitHub Streak"
 />
 
 </div>
